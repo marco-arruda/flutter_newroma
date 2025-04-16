@@ -39,7 +39,7 @@ A estrutura principal do projeto é a seguinte:
 ## 🖼️ Captura de Tela
 ![Texto alternativo](images/print.png)
 
-## ✨ Como Funciona
+## ⚙️ Como Funciona
 
 O aplicativo utiliza um array de frases motivacionais e gera uma frase aleatória ao clicar no botão "Nova Frase". A lógica de geração de frases está implementada no método gerarFrase().
 
