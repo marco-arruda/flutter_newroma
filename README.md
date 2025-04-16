@@ -52,10 +52,10 @@ void gerarFrase() {
     fraseGerada = frases[numeroAleatorio];
   });
 }
+```
 
+## 📜 Licença  
 
-###📜 Licença
+Este projeto é de uso livre e pode ser modificado conforme necessário.  
 
-Este projeto é de uso livre e pode ser modificado conforme necessário.
-
-Desenvolvido com ❤️ por Marco Arruda.
+Desenvolvido com ❤️ por **Marco Arruda**.  
