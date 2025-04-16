@@ -34,6 +34,7 @@ class _MainApp extends State<MainApp> {
 
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
           title: Text('Gerador de Frases'),

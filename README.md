@@ -27,10 +27,13 @@ A estrutura principal do projeto é a seguinte:
    ```bash
    git clone https://github.com/seu-usuario/flutter_newroma.git
 3. Navegue até o diretório do projeto:
+   ```bash
    cd flutter_newroma
 4. Instale as dependências:
+   ```bash
    flutter pub get
 5. Execute o aplicativo:
+   ```bash
    flutter run
 
 🖼️ Captura de Tela
