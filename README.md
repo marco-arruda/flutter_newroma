@@ -36,16 +36,17 @@ A estrutura principal do projeto é a seguinte:
    ```bash
    flutter run
 
-🖼️ Captura de Tela
+##🖼️ Captura de Tela
 ![Texto alternativo](images/print.png)
 
-✨ Como Funciona
+##✨ Como Funciona
 
 O aplicativo utiliza um array de frases motivacionais e gera uma frase aleatória ao clicar no botão "Nova Frase". A lógica de geração de frases está implementada no método gerarFrase().
 
-Código Principal
-O código principal está localizado no arquivo lib/main.dart:
+## Código Principal
 
+O código principal está localizado no arquivo lib/main.dart:
+```bash
 void gerarFrase() {
   var numeroAleatorio = Random().nextInt(frases.length);
   setState(() {
@@ -53,7 +54,8 @@ void gerarFrase() {
   });
 }
 
-📜 Licença
+##📜 Licença
+
 Este projeto é de uso livre e pode ser modificado conforme necessário.
 
 Desenvolvido com ❤️ por Marco Arruda.
